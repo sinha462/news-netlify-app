@@ -1,0 +1,25 @@
+.Options {
+    display: flex;
+    margin: 1%;
+}
+
+.option {
+    margin-left: 3%;
+    margin-top: 70px;
+}
+
+.option1 {
+    display: flex;
+}
+
+.option1 > p{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 22px;
+}
+
+.opt{
+    border: 2px solid black;
+    margin-left: 2%;
+    border-radius: 5%;
+}
